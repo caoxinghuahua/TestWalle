@@ -30,6 +30,9 @@ android {
             storePassword "111111"
             keyAlias "test"
             keyPassword "111111"
+//            v1SigningEnabled true
+//            v2SigningEnabled true
+
         }
     }
 
